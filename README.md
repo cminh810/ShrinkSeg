@@ -1,1 +1,1 @@
-# ShrinkNet: The codes for ShrinkNet will be updated soon !
+# ShrinkNet: The codes will be updated soon!
