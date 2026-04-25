@@ -1,1 +1,1 @@
-# ShrinkNet: The codes will be updated soon!
+# ShrinkSeg: The codes will be updated soon ✨!
